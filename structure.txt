@@ -1,0 +1,32 @@
+Folder PATH listing for volume Windows 7
+Volume serial number is F030-4A1E
+C:.
+|   README.md
+|   requirements.txt
+|   run.py
+|   structure.txt
+|   
+\---market
+    |   form.py
+    |   market.db
+    |   models.py
+    |   routes.py
+    |   __init__.py
+    |   
+    +---templates
+    |   |   base.html
+    |   |   home.html
+    |   |   login.html
+    |   |   market.html
+    |   |   register.html
+    |   |   
+    |   \---includes
+    |           items_modal.html
+    |           selling_item_modal.html
+    |           
+    \---__pycache__
+            form.cpython-38.pyc
+            models.cpython-38.pyc
+            routes.cpython-38.pyc
+            __init__.cpython-38.pyc
+            

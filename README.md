@@ -1,3 +1,7 @@
+![version](https://img.shields.io/badge/version-0.1-brightgreen) 
+![priority](https://img.shields.io/badge/priority-important-blue)
+![kanban](https://img.shields.io/badge/status-stories-lightgrey)
+
 # flask-market
 ![Capture](https://user-images.githubusercontent.com/73679364/135747943-25500c2a-f8e8-477b-b597-f4fc39b0205d.PNG)
 
